@@ -93,6 +93,7 @@ public class Main {
         TypedQuery query = (TypedQuery) entityManager.createQuery(jpgl);
         List<Customer> list = query.getResultList();
 
+
         System.out.println("Proszę wybrać osobe kupujaca");
         int j = 0;
         for (Customer c : list) {

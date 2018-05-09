@@ -12,6 +12,7 @@ public abstract class AbstractEntity {
     protected Integer id;
 
     public Integer getId() {
+
         return id;
     }
 
