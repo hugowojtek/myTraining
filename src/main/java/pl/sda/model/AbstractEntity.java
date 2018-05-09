@@ -12,6 +12,8 @@ public abstract class AbstractEntity {
     protected Integer id;
 
     public Integer getId() {
+
+        System.out.println("ala ma kota");
         return id;
 
     }
