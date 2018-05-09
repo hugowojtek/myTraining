@@ -17,6 +17,7 @@ public class Main {
 
         Main main = new Main();
         System.out.println();
+        System.out.println();
 
 
 //        entityManager.getTransaction().begin(); //otwórz
