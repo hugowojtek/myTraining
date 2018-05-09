@@ -13,6 +13,7 @@ public abstract class AbstractEntity {
 
     public Integer getId() {
         return id;
+
     }
 
     public void setId(Integer id) {
